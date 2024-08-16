@@ -21,10 +21,10 @@
     justify-content: center;
 }
 #inputbox{
-    height: 3rem;
+    height: 2rem;
     width: 75rem;
-    margin: 1.5rem;
-    padding: .25rem;
+    margin: 1rem;
+    padding: 1rem;
     font-family:  "Montserrat", sans-serif;
     font-size: 1.25rem;
     border: 2px solid white;
